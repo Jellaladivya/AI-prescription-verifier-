@@ -1,0 +1,5 @@
+{
+  "name": "AI Prescription Verifier",
+  "description": "An AI-powered medical prescription verification system that parses prescription details, checks for drug interactions, verifies dosages, and suggests safer alternatives. It includes a chatbot for user queries and mockups for patient records and a doctor's directory.",
+  "requestFramePermissions": []
+}
